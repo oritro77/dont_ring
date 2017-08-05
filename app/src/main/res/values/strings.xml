@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dont Ring</string>
+    <string name="startTimePickerButton">Choose Start Time</string>
+    <string name="endTimePickerButton">Choose End Time</string>
+    <string name="dont_ring_checkbox">Dont Ring</string>
+    <string name="send_sms_checkbox">Send SMS After Rejecting Call</string>
+    <string name="sms_textview">SMS</string>
+    <string name="submit_button">Submit SMS</string>
+    <string name="whitelist_button">Create White List</string>
+    <string name="blacklist_button">Create Black List</string>
+    <string name="insertMobileNumber_editText">Insert Phone Number</string>
+    <string name="submitPhoneNumber_button">Submit Number</string>
+
+    <string-array name="choiceToFindContacts">
+        <item>Call Log</item>
+        <item>Contacts</item>
+    </string-array>
+</resources>
